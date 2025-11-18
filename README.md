@@ -6,7 +6,7 @@
 
 *I work on things that interest me, learn by building, and keep things simple.*
 
-[<img src="https://media.giphy.com/media/128Ygie2wLdH5m/giphy.gif" alt="Doraemon" width="60" align="right"/>](https://github.com/Tejo0507)
+[<img src="https://sl.bing.net/hPaD9EtCDfg" alt="Doraemon" width="60" align="right"/>](https://github.com/Tejo0507)
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tejo0507)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tejosridhar)
@@ -57,61 +57,80 @@ class Tejo:
 
 ---
 
-## 🐍 Contribution Snake
+## 🟡 Contribution Pac‑Man
 
 <div align="center">
-  <a href="https://github.com/Platane/snk">
+  <a href="https://github.com/abozanona/pacman-contribution-graph">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
-      <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tejo0507/Tejo0507/output/pacman-contribution-graph-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tejo0507/Tejo0507/output/pacman-contribution-graph.svg">
+      <img alt="Pac-Man eats my contribution grid" src="https://raw.githubusercontent.com/Tejo0507/Tejo0507/output/pacman-contribution-graph.svg">
     </picture>
   </a>
   <br/>
-  <sub>To show your own snake, enable the snk GitHub Action in <code>Tejo0507/Tejo0507</code>.</sub>
-  <br/>
-  <sub>Optional: keep using this fallback until your workflow generates your SVG.</sub>
+  <sub>If the image above hasn’t generated yet, it will appear after the new workflow runs (daily or on manual trigger).</sub>
 </div>
 
 ---
 
 ## 🚀 Featured Projects
 
-Clean, quick links with live badges for stars and recency.
+Minimal, readable cards with live badges.
 
-- [Halucina.labs](https://github.com/Tejo0507/Halucina.labs) — AI experimentation lab for cutting-edge ML research  
-  ![Stars](https://img.shields.io/github/stars/Tejo0507/Halucina.labs?style=social) 
-  ![Last commit](https://img.shields.io/github/last-commit/Tejo0507/Halucina.labs?color=999)
+<div align="left">
 
-- [CabEase](https://github.com/Tejo0507/CabEase) — Smart cab booking system with Java, JSP, MySQL  
-  ![Stars](https://img.shields.io/github/stars/Tejo0507/CabEase?style=social) 
-  ![Last commit](https://img.shields.io/github/last-commit/Tejo0507/CabEase?color=999)
+<b><a href="https://github.com/Tejo0507/Halucina.labs">Halucina.labs</a></b> — AI experimentation lab for cutting‑edge ML research<br/>
+<a href="https://github.com/Tejo0507/Halucina.labs"><img src="https://img.shields.io/github/stars/Tejo0507/Halucina.labs?style=social" /></a>
+<a href="https://github.com/Tejo0507/Halucina.labs"><img src="https://img.shields.io/github/last-commit/Tejo0507/Halucina.labs?color=999" /></a>
+<a href="https://github.com/Tejo0507/Halucina.labs"><img src="https://img.shields.io/github/languages/top/Tejo0507/Halucina.labs?color=306998" /></a>
 
-- [speech_translate_pro](https://github.com/Tejo0507/speech_translate_pro) — Live speech translation using Whisper ASR  
-  ![Stars](https://img.shields.io/github/stars/Tejo0507/speech_translate_pro?style=social) 
-  ![Last commit](https://img.shields.io/github/last-commit/Tejo0507/speech_translate_pro?color=999)
+<br/><br/>
 
-- [object-detection-yolov8-coco](https://github.com/Tejo0507/object-detection-yolov8-coco) — YOLOv8 object detection on COCO dataset  
-  ![Stars](https://img.shields.io/github/stars/Tejo0507/object-detection-yolov8-coco?style=social) 
-  ![Last commit](https://img.shields.io/github/last-commit/Tejo0507/object-detection-yolov8-coco?color=999)
+<b><a href="https://github.com/Tejo0507/CabEase">CabEase</a></b> — Smart cab booking system with Java, JSP, MySQL<br/>
+<a href="https://github.com/Tejo0507/CabEase"><img src="https://img.shields.io/github/stars/Tejo0507/CabEase?style=social" /></a>
+<a href="https://github.com/Tejo0507/CabEase"><img src="https://img.shields.io/github/last-commit/Tejo0507/CabEase?color=999" /></a>
+<a href="https://github.com/Tejo0507/CabEase"><img src="https://img.shields.io/github/languages/top/Tejo0507/CabEase?color=306998" /></a>
 
-- [movie-recommendation-system](https://github.com/Tejo0507/movie-recommendation-system) — Content-based recommendations with TF‑IDF  
-  ![Stars](https://img.shields.io/github/stars/Tejo0507/movie-recommendation-system?style=social) 
-  ![Last commit](https://img.shields.io/github/last-commit/Tejo0507/movie-recommendation-system?color=999)
+<br/><br/>
 
-- [NeuroNet](https://github.com/Tejo0507/NeuroNet) — Neural network implementations from scratch  
-  ![Stars](https://img.shields.io/github/stars/Tejo0507/NeuroNet?style=social) 
-  ![Last commit](https://img.shields.io/github/last-commit/Tejo0507/NeuroNet?color=999)
+<b><a href="https://github.com/Tejo0507/speech_translate_pro">speech_translate_pro</a></b> — Live speech translation using Whisper ASR<br/>
+<a href="https://github.com/Tejo0507/speech_translate_pro"><img src="https://img.shields.io/github/stars/Tejo0507/speech_translate_pro?style=social" /></a>
+<a href="https://github.com/Tejo0507/speech_translate_pro"><img src="https://img.shields.io/github/last-commit/Tejo0507/speech_translate_pro?color=999" /></a>
+<a href="https://github.com/Tejo0507/speech_translate_pro"><img src="https://img.shields.io/github/languages/top/Tejo0507/speech_translate_pro?color=306998" /></a>
+
+<br/><br/>
+
+<b><a href="https://github.com/Tejo0507/object-detection-yolov8-coco">object-detection-yolov8-coco</a></b> — YOLOv8 object detection on COCO dataset<br/>
+<a href="https://github.com/Tejo0507/object-detection-yolov8-coco"><img src="https://img.shields.io/github/stars/Tejo0507/object-detection-yolov8-coco?style=social" /></a>
+<a href="https://github.com/Tejo0507/object-detection-yolov8-coco"><img src="https://img.shields.io/github/last-commit/Tejo0507/object-detection-yolov8-coco?color=999" /></a>
+<a href="https://github.com/Tejo0507/object-detection-yolov8-coco"><img src="https://img.shields.io/github/languages/top/Tejo0507/object-detection-yolov8-coco?color=306998" /></a>
+
+<br/><br/>
+
+<b><a href="https://github.com/Tejo0507/movie-recommendation-system">movie-recommendation-system</a></b> — Content‑based recommendations with TF‑IDF<br/>
+<a href="https://github.com/Tejo0507/movie-recommendation-system"><img src="https://img.shields.io/github/stars/Tejo0507/movie-recommendation-system?style=social" /></a>
+<a href="https://github.com/Tejo0507/movie-recommendation-system"><img src="https://img.shields.io/github/last-commit/Tejo0507/movie-recommendation-system?color=999" /></a>
+<a href="https://github.com/Tejo0507/movie-recommendation-system"><img src="https://img.shields.io/github/languages/top/Tejo0507/movie-recommendation-system?color=306998" /></a>
+
+<br/><br/>
+
+<b><a href="https://github.com/Tejo0507/NeuroNet">NeuroNet</a></b> — Neural network implementations from scratch<br/>
+<a href="https://github.com/Tejo0507/NeuroNet"><img src="https://img.shields.io/github/stars/Tejo0507/NeuroNet?style=social" /></a>
+<a href="https://github.com/Tejo0507/NeuroNet"><img src="https://img.shields.io/github/last-commit/Tejo0507/NeuroNet?color=999" /></a>
+<a href="https://github.com/Tejo0507/NeuroNet"><img src="https://img.shields.io/github/languages/top/Tejo0507/NeuroNet?color=306998" /></a>
 
 <details>
 <summary><b>More projects</b></summary>
 
-- [voice_translation_app](https://github.com/Tejo0507/voice_translation_app) — Voice‑to‑voice translation with dynamic language selection
-- [expense_study_helper](https://github.com/Tejo0507/expense_study_helper) — ML‑powered expense categorization with sentence transformers
-- [CricketGame](https://github.com/Tejo0507/CricketGame) — Console‑based cricket simulation using Java OOP
-- [Cab-Booking](https://github.com/Tejo0507/Cab-Booking) — Java GUI cab management system
-- [Webdev-projects](https://github.com/Tejo0507/Webdev-projects) — Collection of responsive web projects
+- <a href="https://github.com/Tejo0507/voice_translation_app">voice_translation_app</a> — Voice‑to‑voice translation with dynamic language selection
+- <a href="https://github.com/Tejo0507/expense_study_helper">expense_study_helper</a> — ML‑powered expense categorization with sentence transformers
+- <a href="https://github.com/Tejo0507/CricketGame">CricketGame</a> — Console‑based cricket simulation using Java OOP
+- <a href="https://github.com/Tejo0507/Cab-Booking">Cab-Booking</a> — Java GUI cab management system
+- <a href="https://github.com/Tejo0507/Webdev-projects">Webdev-projects</a> — Collection of responsive web projects
 
 </details>
+
+</div>
 
 ---
 
