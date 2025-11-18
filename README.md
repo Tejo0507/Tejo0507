@@ -6,7 +6,7 @@
 
 *I work on things that interest me, learn by building, and keep things simple.*
 
-[<img src="https://sl.bing.net/hPaD9EtCDfg" alt="Doraemon" width="60" align="right"/>](https://github.com/Tejo0507)
+[<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3FjMjluYXc3aDRucmh1cjRnYTQ2aDBmNWh4ZHp4ZDg0azJjenhkZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6nUNZhOJDdlmla00/giphy.gif" alt="Doraemon" width="60" align="right"/>](https://github.com/Tejo0507)
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tejo0507)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tejosridhar)
@@ -14,45 +14,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Tejo0507&style=for-the-badge&color=blueviolet)
 
-</div>
-
----
-
-## 👨‍💻 About Me
-
-I code, learn AI/ML, watch cricket, hear some songs and chill with cartoons. That’s pretty much me.
-
-```python
-class Tejo:
-    def __init__(self):
-        self.name = "Tejo Sridhar M V S"
-        self.role = "AI/ML Developer"
-        self.location = "Chennai, India"
-        self.interests = ["AI/ML", "Coding", "Cartoons", "Cricket", "Movies"]
-        self.currently_learning = ["Deep Learning", "Computer Vision", "NLP"]
-    
-    def say_hi(self):
-        print("Thanks for visiting my profile! Let's build something cool together.")
-```
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <a href="https://github.com/Tejo0507">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Tejo0507&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/Tejo0507">
-    <img width="49%" src="https://streak-stats.demolab.com/?user=Tejo0507&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  </a>
-  
-  <a href="https://github.com/Tejo0507?tab=repositories">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tejo0507&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" alt="Top Languages" />
-  </a>
-  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-    <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Tejo0507&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
-  </a>
 </div>
 
 ---
@@ -69,67 +30,6 @@ class Tejo:
   </a>
   <br/>
   <sub>If the image above hasn’t generated yet, it will appear after the new workflow runs (daily or on manual trigger).</sub>
-</div>
-
----
-
-## 🚀 Featured Projects
-
-Minimal, readable cards with live badges.
-
-<div align="left">
-
-<b><a href="https://github.com/Tejo0507/Halucina.labs">Halucina.labs</a></b> — AI experimentation lab for cutting‑edge ML research<br/>
-<a href="https://github.com/Tejo0507/Halucina.labs"><img src="https://img.shields.io/github/stars/Tejo0507/Halucina.labs?style=social" /></a>
-<a href="https://github.com/Tejo0507/Halucina.labs"><img src="https://img.shields.io/github/last-commit/Tejo0507/Halucina.labs?color=999" /></a>
-<a href="https://github.com/Tejo0507/Halucina.labs"><img src="https://img.shields.io/github/languages/top/Tejo0507/Halucina.labs?color=306998" /></a>
-
-<br/><br/>
-
-<b><a href="https://github.com/Tejo0507/CabEase">CabEase</a></b> — Smart cab booking system with Java, JSP, MySQL<br/>
-<a href="https://github.com/Tejo0507/CabEase"><img src="https://img.shields.io/github/stars/Tejo0507/CabEase?style=social" /></a>
-<a href="https://github.com/Tejo0507/CabEase"><img src="https://img.shields.io/github/last-commit/Tejo0507/CabEase?color=999" /></a>
-<a href="https://github.com/Tejo0507/CabEase"><img src="https://img.shields.io/github/languages/top/Tejo0507/CabEase?color=306998" /></a>
-
-<br/><br/>
-
-<b><a href="https://github.com/Tejo0507/speech_translate_pro">speech_translate_pro</a></b> — Live speech translation using Whisper ASR<br/>
-<a href="https://github.com/Tejo0507/speech_translate_pro"><img src="https://img.shields.io/github/stars/Tejo0507/speech_translate_pro?style=social" /></a>
-<a href="https://github.com/Tejo0507/speech_translate_pro"><img src="https://img.shields.io/github/last-commit/Tejo0507/speech_translate_pro?color=999" /></a>
-<a href="https://github.com/Tejo0507/speech_translate_pro"><img src="https://img.shields.io/github/languages/top/Tejo0507/speech_translate_pro?color=306998" /></a>
-
-<br/><br/>
-
-<b><a href="https://github.com/Tejo0507/object-detection-yolov8-coco">object-detection-yolov8-coco</a></b> — YOLOv8 object detection on COCO dataset<br/>
-<a href="https://github.com/Tejo0507/object-detection-yolov8-coco"><img src="https://img.shields.io/github/stars/Tejo0507/object-detection-yolov8-coco?style=social" /></a>
-<a href="https://github.com/Tejo0507/object-detection-yolov8-coco"><img src="https://img.shields.io/github/last-commit/Tejo0507/object-detection-yolov8-coco?color=999" /></a>
-<a href="https://github.com/Tejo0507/object-detection-yolov8-coco"><img src="https://img.shields.io/github/languages/top/Tejo0507/object-detection-yolov8-coco?color=306998" /></a>
-
-<br/><br/>
-
-<b><a href="https://github.com/Tejo0507/movie-recommendation-system">movie-recommendation-system</a></b> — Content‑based recommendations with TF‑IDF<br/>
-<a href="https://github.com/Tejo0507/movie-recommendation-system"><img src="https://img.shields.io/github/stars/Tejo0507/movie-recommendation-system?style=social" /></a>
-<a href="https://github.com/Tejo0507/movie-recommendation-system"><img src="https://img.shields.io/github/last-commit/Tejo0507/movie-recommendation-system?color=999" /></a>
-<a href="https://github.com/Tejo0507/movie-recommendation-system"><img src="https://img.shields.io/github/languages/top/Tejo0507/movie-recommendation-system?color=306998" /></a>
-
-<br/><br/>
-
-<b><a href="https://github.com/Tejo0507/NeuroNet">NeuroNet</a></b> — Neural network implementations from scratch<br/>
-<a href="https://github.com/Tejo0507/NeuroNet"><img src="https://img.shields.io/github/stars/Tejo0507/NeuroNet?style=social" /></a>
-<a href="https://github.com/Tejo0507/NeuroNet"><img src="https://img.shields.io/github/last-commit/Tejo0507/NeuroNet?color=999" /></a>
-<a href="https://github.com/Tejo0507/NeuroNet"><img src="https://img.shields.io/github/languages/top/Tejo0507/NeuroNet?color=306998" /></a>
-
-<details>
-<summary><b>More projects</b></summary>
-
-- <a href="https://github.com/Tejo0507/voice_translation_app">voice_translation_app</a> — Voice‑to‑voice translation with dynamic language selection
-- <a href="https://github.com/Tejo0507/expense_study_helper">expense_study_helper</a> — ML‑powered expense categorization with sentence transformers
-- <a href="https://github.com/Tejo0507/CricketGame">CricketGame</a> — Console‑based cricket simulation using Java OOP
-- <a href="https://github.com/Tejo0507/Cab-Booking">Cab-Booking</a> — Java GUI cab management system
-- <a href="https://github.com/Tejo0507/Webdev-projects">Webdev-projects</a> — Collection of responsive web projects
-
-</details>
-
 </div>
 
 ---
@@ -161,6 +61,26 @@ Minimal, readable cards with live badges.
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <a href="https://github.com/Tejo0507">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Tejo0507&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/Tejo0507">
+    <img width="49%" src="https://streak-stats.demolab.com/?user=Tejo0507&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </a>
+  
+  <a href="https://github.com/Tejo0507?tab=repositories">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tejo0507&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" alt="Top Languages" />
+  </a>
+  <a href="https://github.com/Tejo0507">
+    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tejo0507&theme=tokyonight&utcOffset=5.5" alt="Productive Time" />
+  </a>
 </div>
 
 ---
@@ -207,20 +127,6 @@ Minimal, readable cards with live badges.
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
-
----
-
-## 🎯 Current Focus
-
-```javascript
-const currentlyWorkingOn = {
-    learning: ["Deep Learning", "Computer Vision", "NLP"],
-    building: ["AI Projects", "ML Models", "Web Apps"],
-    exploring: ["Generative AI", "LLMs", "MLOps"],
-    reading: ["Tech Blogs", "Research Papers", "Books"],
-    improving: ["Problem Solving", "System Design", "Code Quality"]
-};
-```
 
 ---
 
