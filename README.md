@@ -4,10 +4,10 @@
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" width="80" />
 
-*I work on things that interest me, learn by building, and keep things simple.*
+*I work on things that interest me, and keep things simple.*
 
-<a href="https://github.com/Tejo0507"><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3FjMjluYXc3aDRucmh1cjRnYTQ2aDBmNWh4ZHp4ZDg0azJjenhkZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6nUNZhOJDdlmla00/giphy.gif" alt="Doraemon" width="90" align="right"/></a>
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmQxa3o2YjI5cnd3cjBwbjY4Nmpiam9zYmF1emF3bzA4a3NheTdjcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohjUWt3CrcibB7R3W/giphy.gif" alt="Shinchan" width="90" align="left"/>
+<a href="https://github.com/Tejo0507"><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3FjMjluYXc3aDRucmh1cjRnYTQ2aDBmNWh4ZHp4ZDg0azJjenhkZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6nUNZhOJDdlmla00/giphy.gif" alt="Doraemon" width="130" align="right"/></a>
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmQxa3o2YjI5cnd3cjBwbjY4Nmpiam9zYmF1emF3bzA4a3NheTdjcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohjUWt3CrcibB7R3W/giphy.gif" alt="Shinchan" width="130" align="left"/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tejo0507)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tejosridhar)
@@ -30,7 +30,8 @@
     </picture>
   </a>
   <br/>
-  <sub>If the image above hasn’t generated yet, it will appear after the new workflow runs (daily or on manual trigger).</sub>
+    </a>
+</div>
 </div>
 
 ---
