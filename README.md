@@ -6,7 +6,11 @@
 
 *I work on things that interest me, learn by building, and keep things simple.*
 
-[<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3FjMjluYXc3aDRucmh1cjRnYTQ2aDBmNWh4ZHp4ZDg0azJjenhkZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6nUNZhOJDdlmla00/giphy.gif" alt="Doraemon" width="60" align="right"/>](https://github.com/Tejo0507)
+<a href="https://github.com/Tejo0507"><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3FjMjluYXc3aDRucmh1cjRnYTQ2aDBmNWh4ZHp4ZDg0azJjenhkZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6nUNZhOJDdlmla00/giphy.gif" alt="Doraemon" width="90" align="right"/></a>
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHp2cmkyNHMydHd1bXQya29raG9kbXVxZ2R6cDJwMjlzbnZzN2R1YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/a0MdrVGpFDFrxZfLVt/giphy.gif" width="70" align="right" style="margin-right: 10px;"/>
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExenc0aWl0bjM2b3E2eTc3bG1zMmdtc2ttaTE2dHAxNXlmYzZxNGxpZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" width="70" align="right" style="margin-right: 10px;"/>
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWlid2swempvN3d6dWpib2ExZ2g1cTNqbnl1cmphZG11dnYwb20wYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xonOzxf2M8hNu/giphy.gif" width="70" align="right" style="margin-right: 10px;"/>
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmQxa3o2YjI5cnd3cjBwbjY4Nmpiam9zYmF1emF3bzA4a3NheTdjcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohjUWt3CrcibB7R3W/giphy.gif" width="70" align="right" style="margin-right: 10px;"/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tejo0507)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tejosridhar)
