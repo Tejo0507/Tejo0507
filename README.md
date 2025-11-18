@@ -1,13 +1,27 @@
 <div align="center">
 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHp2cmkyNHMydHd1bXQya29raG9kbXVxZ2R6cDJwMjlzbnZzN2R1YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/a0MdrVGpFDFrxZfLVt/giphy.gif" width="120" style="position: absolute; top: 20px; left: 20px;"/>
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExenc0aWl0bjM2b3E2eTc3bG1zMmdtc2ttaTE2dHAxNXlmYzZxNGxpZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" width="120" style="position: absolute; top: 20px; right: 20px;"/>
+<table>
+<tr>
+<td width="200"><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHp2cmkyNHMydHd1bXQya29raG9kbXVxZ2R6cDJwMjlzbnZzN2R1YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/a0MdrVGpFDFrxZfLVt/giphy.gif" width="100"/></td>
+<td width="400" align="center">
 
 # Tejo Sridhar M V S
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" width="80" />
 
+</td>
+<td width="200"><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExenc0aWl0bjM2b3E2eTc3bG1zMmdtc2ttaTE2dHAxNXlmYzZxNGxpZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" width="100"/></td>
+</tr>
+<tr>
+<td colspan="3" align="center">
+
 *I work on things that interest me, learn by building, and keep things simple.*
+
+</td>
+</tr>
+<tr>
+<td width="200"><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWlid2swempvN3d6dWpib2ExZ2g1cTNqbnl1cmphZG11dnYwb20wYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xonOzxf2M8hNu/giphy.gif" width="100"/></td>
+<td width="400" align="center">
 
 <a href="https://github.com/Tejo0507"><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3FjMjluYXc3aDRucmh1cjRnYTQ2aDBmNWh4ZHp4ZDg0azJjenhkZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6nUNZhOJDdlmla00/giphy.gif" alt="Doraemon" width="100"/></a>
 
@@ -17,8 +31,10 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Tejo0507&style=for-the-badge&color=blueviolet)
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWlid2swempvN3d6dWpib2ExZ2g1cTNqbnl1cmphZG11dnYwb20wYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xonOzxf2M8hNu/giphy.gif" width="120" style="position: absolute; bottom: 20px; left: 20px;"/>
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmQxa3o2YjI5cnd3cjBwbjY4Nmpiam9zYmF1emF3bzA4a3NheTdjcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohjUWt3CrcibB7R3W/giphy.gif" width="120" style="position: absolute; bottom: 20px; right: 20px;"/>
+</td>
+<td width="200"><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmQxa3o2YjI5cnd3cjBwbjY4Nmpiam9zYmF1emF3bzA4a3NheTdjcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohjUWt3CrcibB7R3W/giphy.gif" width="100"/></td>
+</tr>
+</table>
 
 </div>
 
