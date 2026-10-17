@@ -22,10 +22,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
 
+      # v5.0.0's A* pathing runs the runner out of heap; v3.2.8 is the last release before it.
       - name: Pac-Man contribution graph
-        uses: abozanona/pacman-contribution-graph@v5.0.0
+        uses: abozanona/pacman-contribution-graph@v3.2.8
+        continue-on-error: true
         with:
           github_user_name: ${{ github.repository_owner }}
 
@@ -38,6 +40,7 @@ jobs:
       # Falls back to the copies committed on main if the generator is down.
       - name: gh-ascii card
         run: |
+          mkdir -p dist
           for theme in dark light; do
             curl -fsSL --retry 3 "https://gh.crafter.run/${{ github.repository_owner }}?theme=${theme}" \
               -o "dist/${theme}_mode.svg" || cp "${theme}_mode.svg" "dist/${theme}_mode.svg"
@@ -46,6 +49,10 @@ jobs:
       - name: Collect
         run: |
           mv profile-3d-contrib dist/
+          # Keep yesterday's Pac-Man graph if today's generation failed.
+          for f in pacman-contribution-graph.svg pacman-contribution-graph-dark.svg; do
+            [ -f "dist/$f" ] || curl -fsSL "https://raw.githubusercontent.com/${{ github.repository }}/output/$f" -o "dist/$f" || true
+          done
           ls -R dist
 
       - name: Publish to output branch
