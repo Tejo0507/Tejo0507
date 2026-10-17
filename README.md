@@ -6,10 +6,6 @@
 
 <div align="center">
 
-# Tejo Sridhar M V S
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" width="80" />
-
 *I work on things that interest me, and keep things simple.*
 
 <a href="https://github.com/Tejo0507"><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3FjMjluYXc3aDRucmh1cjRnYTQ2aDBmNWh4ZHp4ZDg0azJjenhkZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6nUNZhOJDdlmla00/giphy.gif" alt="Doraemon" width="130" align="right"/></a>
