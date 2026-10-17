@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1010" height="210" viewBox="0 0 1010 210" role="img" aria-label="tejo0507 — agents, multi-agent orchestration, LLM interpretability">
+  <style>
+    .mono { font-family: 'JetBrains Mono', 'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace; }
+    .fg { fill: #e6edf3; } .muted { fill: #7d8590; } .dim { fill: #484f58; } .blue { fill: #58a6ff; } .green { fill: #3fb950; }
+    .cur { animation: blink 1.1s steps(1) infinite; }
+    .scroll { animation: scroll 9s linear infinite; }
+    .scroll2 { animation: scroll 14s linear infinite; }
+    .sweep { animation: sweep 4.5s ease-in-out infinite alternate; }
+    @keyframes blink { 50% { opacity: 0; } }
+    @keyframes scroll { to { transform: translateX(-300px); } }
+    @keyframes sweep { from { transform: translateX(0); } to { transform: translateX(296px); } }
+    @media (prefers-reduced-motion: reduce) { .cur, .scroll, .scroll2, .sweep { animation: none; } }
+  </style>
+  <defs>
+    <clipPath id="scope"><rect x="660" y="38" width="300" height="134"/></clipPath>
+    <pattern id="grid" width="30" height="16.75" patternUnits="userSpaceOnUse" x="660" y="38">
+      <path d="M30 0H0V16.75" fill="none" stroke="#21262d" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect x="0.5" y="0.5" width="1009" height="209" rx="8" fill="#0d1117" stroke="#30363d"/>
+
+  <text x="40" y="48" class="mono" font-size="13"><tspan class="blue">~/tejo0507</tspan><tspan class="dim">  ·  </tspan><tspan class="muted">chennai, in</tspan><tspan class="dim">  ·  </tspan><tspan class="muted">srm '28</tspan></text>
+
+  <text x="38" y="118" class="mono fg" font-size="62" font-weight="700" letter-spacing="-1">tejo0507<tspan class="green cur">_</tspan></text>
+
+  <text x="40" y="152" class="mono muted" font-size="16">agents <tspan class="dim">/</tspan> multi-agent orchestration <tspan class="dim">/</tspan> llm interpretability</text>
+  <text x="40" y="180" class="mono" font-size="13"><tspan class="dim">building</tspan> <tspan class="fg">morphism-engine</tspan><tspan class="dim">   prev.</tspan> <tspan class="muted">ai developer intern @ kambaa</tspan></text>
+
+  <!-- scope -->
+  <rect x="660" y="38" width="300" height="134" fill="url(#grid)" stroke="#30363d"/>
+  <line x1="660" y1="105" x2="960" y2="105" stroke="#30363d" stroke-dasharray="2 3"/>
+  <g clip-path="url(#scope)">
+    <g transform="translate(660 82)"><path class="scroll" fill="none" stroke="#3fb950" stroke-width="1.6" stroke-linejoin="round" d="M0,-11.7 L3,-19.6 L6,-22.0 L9,-19.3 L12,-13.9 L15,-9.1 L18,-7.3 L21,-9.0 L24,-12.3 L27,-14.9 L30,-15.3 L33,-13.9 L36,-12.5 L39,-12.7 L42,-14.9 L45,-17.2 L48,-17.1 L51,-12.2 L54,-2.4 L57,9.9 L60,21.2 L63,28.2 L66,29.8 L69,27.2 L72,23.0 L75,19.7 L78,17.9 L81,16.5 L84,13.8 L87,8.7 L90,2.2 L93,-3.5 L96,-5.9 L99,-4.1 L102,0.6 L105,5.1 L108,6.0 L111,2.0 L114,-6.1 L117,-15.3 L120,-22.5 L123,-26.0 L126,-26.1 L129,-24.7 L132,-23.4 L135,-22.9 L138,-21.6 L141,-17.8 L144,-10.0 L147,0.7 L150,11.7 L153,19.6 L156,22.0 L159,19.3 L162,13.9 L165,9.1 L168,7.3 L171,9.0 L174,12.3 L177,14.9 L180,15.3 L183,13.9 L186,12.5 L189,12.7 L192,14.9 L195,17.2 L198,17.1 L201,12.2 L204,2.4 L207,-9.9 L210,-21.2 L213,-28.2 L216,-29.8 L219,-27.2 L222,-23.0 L225,-19.7 L228,-17.9 L231,-16.5 L234,-13.8 L237,-8.7 L240,-2.2 L243,3.5 L246,5.9 L249,4.1 L252,-0.6 L255,-5.1 L258,-6.0 L261,-2.0 L264,6.1 L267,15.3 L270,22.5 L273,26.0 L276,26.1 L279,24.7 L282,23.4 L285,22.9 L288,21.6 L291,17.8 L294,10.0 L297,-0.7 L300,-11.7 L303,-19.6 L306,-22.0 L309,-19.3 L312,-13.9 L315,-9.1 L318,-7.3 L321,-9.0 L324,-12.3 L327,-14.9 L330,-15.3 L333,-13.9 L336,-12.5 L339,-12.7 L342,-14.9 L345,-17.2 L348,-17.1 L351,-12.2 L354,-2.4 L357,9.9 L360,21.2 L363,28.2 L366,29.8 L369,27.2 L372,23.0 L375,19.7 L378,17.9 L381,16.5 L384,13.8 L387,8.7 L390,2.2 L393,-3.5 L396,-5.9 L399,-4.1 L402,0.6 L405,5.1 L408,6.0 L411,2.0 L414,-6.1 L417,-15.3 L420,-22.5 L423,-26.0 L426,-26.1 L429,-24.7 L432,-23.4 L435,-22.9 L438,-21.6 L441,-17.8 L444,-10.0 L447,0.7 L450,11.7 L453,19.6 L456,22.0 L459,19.3 L462,13.9 L465,9.1 L468,7.3 L471,9.0 L474,12.3 L477,14.9 L480,15.3 L483,13.9 L486,12.5 L489,12.7 L492,14.9 L495,17.2 L498,17.1 L501,12.2 L504,2.4 L507,-9.9 L510,-21.2 L513,-28.2 L516,-29.8 L519,-27.2 L522,-23.0 L525,-19.7 L528,-17.9 L531,-16.5 L534,-13.8 L537,-8.7 L540,-2.2 L543,3.5 L546,5.9 L549,4.1 L552,-0.6 L555,-5.1 L558,-6.0 L561,-2.0 L564,6.1 L567,15.3 L570,22.5 L573,26.0 L576,26.1 L579,24.7 L582,23.4 L585,22.9 L588,21.6 L591,17.8 L594,10.0 L597,-0.7 L600,-11.7"/></g>
+    <g transform="translate(660 145)"><path class="scroll2" fill="none" stroke="#58a6ff" stroke-width="1.2" opacity="0.8" d="M0,12 L15,12 L15,-12 L30,-12 L30,12 L45,12 L45,-12 L90,-12 L90,12 L105,12 L105,-12 L165,-12 L165,12 L195,12 L195,-12 L240,-12 L240,12 L255,12 L255,-12 L300,-12 L300,12 L315,12 L315,-12 L330,-12 L330,12 L345,12 L345,-12 L390,-12 L390,12 L405,12 L405,-12 L465,-12 L465,12 L495,12 L495,-12 L540,-12 L540,12 L555,12 L555,-12 L600,-12"/></g>
+    <rect class="sweep" x="662" y="38" width="2" height="134" fill="#3fb950" opacity="0.18"/>
+  </g>
+  <text x="666" y="54" class="mono dim" font-size="10">CH1 baseband</text>
+  <text x="666" y="125" class="mono dim" font-size="10">CH2 pn chips</text>
+  <text x="954" y="186" class="mono dim" font-size="10" text-anchor="end">1.2288 Mcps</text>
+</svg>

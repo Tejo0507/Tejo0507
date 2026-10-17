@@ -1,0 +1,57 @@
+name: Build profile assets
+
+# Regenerates every image the README pulls from the `output` branch:
+# the gh-ascii card, the 3D contribution calendar and the Pac-Man graph.
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # daily at 00:00 UTC
+  workflow_dispatch:
+  push:
+    branches: [ main ]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-assets
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Pac-Man contribution graph
+        uses: abozanona/pacman-contribution-graph@v5.0.0
+        with:
+          github_user_name: ${{ github.repository_owner }}
+
+      - name: 3D contribution calendar
+        uses: yoshi389111/github-profile-3d-contrib@v0.9.3
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+
+      # Falls back to the copies committed on main if the generator is down.
+      - name: gh-ascii card
+        run: |
+          for theme in dark light; do
+            curl -fsSL --retry 3 "https://gh.crafter.run/${{ github.repository_owner }}?theme=${theme}" \
+              -o "dist/${theme}_mode.svg" || cp "${theme}_mode.svg" "dist/${theme}_mode.svg"
+          done
+
+      - name: Collect
+        run: |
+          mv profile-3d-contrib dist/
+          ls -R dist
+
+      - name: Publish to output branch
+        uses: crazy-max/ghaction-github-pages@v4.2.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

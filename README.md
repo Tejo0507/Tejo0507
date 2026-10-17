@@ -1,151 +1,145 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
-  <img alt="Tejo0507's GitHub profile" src="dark_mode.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg" />
+  <img alt="tejo0507 — agents, multi-agent orchestration, llm interpretability" src="assets/header-dark.svg" width="100%" />
 </picture>
 
-<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tejo0507/Tejo0507/output/dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tejo0507/Tejo0507/output/light_mode.svg" />
+  <img alt="Tejo0507's GitHub profile" src="https://raw.githubusercontent.com/Tejo0507/Tejo0507/output/dark_mode.svg" width="100%" />
+</picture>
 
-*I work on things that interest me, and keep things simple.*
+### `01` research
 
-<a href="https://github.com/Tejo0507"><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3FjMjluYXc3aDRucmh1cjRnYTQ2aDBmNWh4ZHp4ZDg0azJjenhkZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6nUNZhOJDdlmla00/giphy.gif" alt="Doraemon" width="130" align="right"/></a>
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmQxa3o2YjI5cnd3cjBwbjY4Nmpiam9zYmF1emF3bzA4a3NheTdjcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohjUWt3CrcibB7R3W/giphy.gif" alt="Shinchan" width="130" align="left"/>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tejo0507)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tejosridhar)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/me.tejo/)
+**[NLA · Answer-Stable Tail](https://github.com/Tejo0507/NLAutoencoders-AnswerStableTail)**<br/>
+<sub>Reasoning models keep checking an answer they already have. Can a natural-language readout of residual-stream activations spot that tail better than cheap signals? 250 traces, success criteria fixed before any data came in. It doesn't.</sub><br/>
+<sub><code>interpretability</code> <code>reasoning traces</code> <code>python</code></sub>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Tejo0507&style=for-the-badge&color=blueviolet)
+</td>
+<td width="50%" valign="top">
 
-</div>
+**[QuantDiag](https://github.com/Tejo0507/QuantDiag)**<br/>
+<sub>Where does reasoning break once an LLM is quantized? Diagnoses the failures and localizes them.</sub><br/>
+<sub><code>quantization</code> <code>llm eval</code> <code>python</code></sub>
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-## 🟡 Contribution Pac‑Man
+**[NeuralRAG · Trainable Index](https://github.com/Tejo0507/NeuralRAG-TrainableIndex)**<br/>
+<sub>RAG where the index learns too: centroid routing, product quantization and soft retrieval, trained jointly with the generator. Evaluated on BEIR.</sub><br/>
+<sub><code>retrieval</code> <code>infonce</code> <code>faiss</code> <code>pytorch</code></sub>
 
-<div align="center">
-  <a href="https://github.com/abozanona/pacman-contribution-graph">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tejo0507/Tejo0507/output/pacman-contribution-graph-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tejo0507/Tejo0507/output/pacman-contribution-graph.svg">
-      <img alt="Pac-Man eats my contribution grid" src="https://raw.githubusercontent.com/Tejo0507/Tejo0507/output/pacman-contribution-graph.svg">
-    </picture>
-  </a>
-  <br/>
-    </a>
-</div>
-</div>
+</td>
+<td width="50%" valign="top">
 
----
+**[Hallucina](https://github.com/Tejo0507/Hallucina)** · [live](https://hallucina.vercel.app)<br/>
+<sub>What happens between the prompt and the picture: adversarial generation, activation extraction and embedding views for image models.</sub><br/>
+<sub><code>generative models</code> <code>python</code> <code>js</code></sub>
 
-## 💻 Tech Stack
+</td>
+</tr>
+</table>
 
-<div align="center">
+### `02` systems
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<table>
+<tr>
+<td width="50%" valign="top">
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+**[morphism-engine](https://github.com/Tejo0507/morphism-engine)**<br/>
+<sub>Makes broken CLI data pipes work again. Spots schema mismatches, drafts the fix with a local model and proves every transform with Z3 before it runs.</sub><br/>
+<sub><code>z3 smt</code> <code>program synthesis</code> <code>python</code></sub>
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+</td>
+<td width="50%" valign="top">
 
-</div>
+**[securederm-ai](https://github.com/Tejo0507/securederm-ai)**<br/>
+<sub>Hospitals train one wound classifier together without sharing a single image. Differentially private local updates, federated aggregation.</sub><br/>
+<sub><code>federated learning</code> <code>opacus</code> <code>resnet18</code></sub>
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-## 📊 GitHub Analytics
+**[Enterprise Data Agent](https://github.com/Tejo0507/Enterprise-Data-Agent)**<br/>
+<sub>Ask a database a question in plain English. Multi-stage agent pipeline, schema retrieval, SQL generation, audit logging.</sub><br/>
+<sub><code>langgraph</code> <code>fastapi</code> <code>next.js</code></sub>
 
-<div align="center">
-  <a href="https://github.com/Tejo0507">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Tejo0507&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/Tejo0507">
-    <img width="49%" src="https://streak-stats.demolab.com/?user=Tejo0507&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  </a>
-  
-  <a href="https://github.com/Tejo0507?tab=repositories">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tejo0507&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" alt="Top Languages" />
-  </a>
-  <a href="https://github.com/Tejo0507">
-    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tejo0507&theme=tokyonight&utcOffset=5.5" alt="Productive Time" />
-  </a>
-</div>
+</td>
+<td width="50%" valign="top">
 
----
+**[Repora](https://github.com/Tejo0507/Repora)** · [live](https://repora-tejo.vercel.app)<br/>
+<sub>Paste a GitHub URL, get a structured read of the codebase: layout, stack, the files that matter.</sub><br/>
+<sub><code>github api</code> <code>python</code></sub>
 
-## 📈 Coding Activity
+</td>
+</tr>
+</table>
 
-<div align="center">
-  
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+### `03` built for the browser
 
-![Tejo's GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=Tejo0507&bg_color=1a1b27&color=38bdae&line=628fdb&point=f8d847&area=true&hide_border=true)
+<table>
+<tr>
+<td width="50%" valign="top">
 
-</div>
+**[PARADOX LAB](https://github.com/Tejo0507/paradox-lab)** · [live](https://paradox-lab.vercel.app)<br/>
+<sub>Formal languages as a crime scene. Cut and pump strings through the CFL pumping lemma, step a pushdown automaton, watch a DFA lose.</sub><br/>
+<sub><code>react</code> <code>typescript</code> <code>vitest</code></sub>
 
----
+</td>
+<td width="50%" valign="top">
 
-## 🏆 GitHub Trophies
+**[IS-95 Signal Explorer](https://github.com/Tejo0507/is95-signal-explorer)** · [live](https://is95-signal-explorer.vercel.app)<br/>
+<sub>A CDMA lab where nothing is pre-drawn: Walsh codes, m-sequences and long-code masks are computed live.</sub><br/>
+<sub><code>react</code> <code>typescript</code> <code>dsp</code></sub>
 
-<div align="center">
-  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Tejo0507&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)
+</td>
+</tr>
+</table>
 
-</div>
+### `04` stack
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,ts,js,java,cpp,c,pytorch,tensorflow,sklearn,opencv,fastapi,react,nextjs,vite,nodejs,spring,postgres,mysql,docker,git,linux,vercel&perline=11&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py,ts,js,java,cpp,c,pytorch,tensorflow,sklearn,opencv,fastapi,react,nextjs,vite,nodejs,spring,postgres,mysql,docker,git,linux,vercel&perline=11&theme=light" />
+  <img alt="Python, TypeScript, JavaScript, Java, C++, C, PyTorch, TensorFlow, scikit-learn, OpenCV, FastAPI, React, Next.js, Vite, Node.js, Spring, PostgreSQL, MySQL, Docker, Git, Linux, Vercel" src="https://skillicons.dev/icons?i=py,ts,js,java,cpp,c,pytorch,tensorflow,sklearn,opencv,fastapi,react,nextjs,vite,nodejs,spring,postgres,mysql,docker,git,linux,vercel&perline=11&theme=dark" />
+</picture>
 
-## 📫 Let's Connect
+<sub>also &nbsp;`langgraph` `z3` `opacus` `faiss` `transformers` `whisper` `yolov8` `streamlit`</sub>
 
-<div align="center">
+### `05` contributions
 
-[![GitHub](https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tejo0507)
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tejosridhar)
-[![Instagram](https://img.shields.io/badge/Follow%20on%20Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/me.tejo/)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tejo0507/Tejo0507/output/profile-3d-contrib/profile-night-green.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tejo0507/Tejo0507/output/profile-3d-contrib/profile-green-animate.svg" />
+  <img alt="3D contribution calendar" src="https://raw.githubusercontent.com/Tejo0507/Tejo0507/output/profile-3d-contrib/profile-night-green.svg" width="100%" />
+</picture>
 
-</div>
+<details>
+<summary><sub>insert coin</sub></summary>
+<br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tejo0507/Tejo0507/output/pacman-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tejo0507/Tejo0507/output/pacman-contribution-graph.svg" />
+  <img alt="Pac-Man eating the contribution grid" src="https://raw.githubusercontent.com/Tejo0507/Tejo0507/output/pacman-contribution-graph.svg" width="100%" />
+</picture>
+</details>
 
----
+<br/>
 
-## 💭 Random Dev Quote
-
-<div align="center">
-
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
-
-<div align="center">
-
-### 💙 Show some love by starring my repositories!
-
-**Thanks for stopping by. Let's build something amazing together.**
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="40" />
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</div>
+<p align="center">
+  <sub>
+    <a href="https://www.tejosridhar.me">tejosridhar.me</a> &nbsp;·&nbsp;
+    <a href="https://www.linkedin.com/in/tejosridhar">linkedin</a> &nbsp;·&nbsp;
+    <a href="https://www.instagram.com/me.tejo/">instagram</a> &nbsp;·&nbsp;
+    <a href="https://github.com/Morphism-Engine">@Morphism-Engine</a>
+  </sub>
+</p>
