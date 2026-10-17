@@ -8,9 +8,24 @@
 <br/>
 
 <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="Tejo0507's GitHub profile" src="dark_mode.svg" width="100%" />
+</picture>
+
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tejo0507/Tejo0507/output/profile-3d-contrib/profile-night-green.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tejo0507/Tejo0507/output/profile-3d-contrib/profile-green-animate.svg" />
   <img alt="Contribution calendar for the last year, in 3D" src="https://raw.githubusercontent.com/Tejo0507/Tejo0507/output/profile-3d-contrib/profile-night-green.svg" width="100%" />
+</picture>
+
+<br/>
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/tejo-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/tejo-light.svg" />
+  <img alt="The word tejo, resolving out of an activation heatmap" src="assets/tejo-light.svg" width="100%" />
 </picture>
 
 <br/>
